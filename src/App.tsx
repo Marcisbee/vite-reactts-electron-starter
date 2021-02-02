@@ -8,7 +8,7 @@ function App() {
   return (
     <div className='text-center'>
       <header className='App-header min-h-screen flex flex-col items-center justify-center text-white'>
-        <img src={logo} className='h-40 App-logo' alt='logo' />
+        <img src={logo} className='App-logo' alt='logo' />
         <p className='mb-5'>Hello Vite + React + Typescript + Electron</p>
         <p>
           <button
